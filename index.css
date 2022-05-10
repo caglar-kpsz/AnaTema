@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(tree.webp);
+    background-size:cover;
+    height: 10vh;
+}
+h2{
+    padding-top: 5rem;
+    font-size: 4rem;
+}
+h4{
+    font-size: 2rem;
+}
+.kutu{
+    margin-top: ;
+    text-align: center;
+    margin-top: 34.5rem;
+    display: inline-flex;
+    
+    
+}
+.kutu1{
+    background-color: grey;
+    margin: 1rem;
+    width: 200px;
+    color: grey;
+    
+    
+    
+}
+.kutu2{
+    background-color: grey;
+    margin: 1rem;
+    width: 200px;
+    color: gray;
+    
+}
+.kutu3{
+
+    background-color: grey;
+    margin: 1rem;
+    width: 200px;
+    color: grey;
+}
